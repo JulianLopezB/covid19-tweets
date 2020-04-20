@@ -1,4 +1,8 @@
-# Coronavirus (covid19) Tweets
+# Coronavirus (covid19) Tweets 
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b7I5pXqaOND4YPOUdclmYbFu7hg8_4JW)
+
 
 Tweets using hashtags associated with Coronavirus
 This dataset contains the Tweets of users who have applied the following hashtags:
@@ -22,4 +26,3 @@ and we'll do it with some basic Social Network Analysis (Part 1) and NLP (Part 2
 Source: https://www.kaggle.com/smid80/coronavirus-covid19-tweets
 
 ![](img/results_hashtags.png)
-
