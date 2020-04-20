@@ -21,4 +21,5 @@ and we'll do it with some basic Social Network Analysis (Part 1) and NLP (Part 2
 
 Source: https://www.kaggle.com/smid80/coronavirus-covid19-tweets
 
-![descarga%20%282%29.png](attachment:descarga%20%282%29.png)
+![](imgs/resultados_hashtags.png)
+
