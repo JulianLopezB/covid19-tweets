@@ -3,7 +3,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b7I5pXqaOND4YPOUdclmYbFu7hg8_4JW)
 
-See related![article](https://towardsdatascience.com/mining-twitter-discourse-on-covid19-a2b6df66daee)
+See related ![article](https://towardsdatascience.com/mining-twitter-discourse-on-covid19-a2b6df66daee)
 
 ## Dataset
 This dataset contains the Tweets of users who have applied the following hashtags:
