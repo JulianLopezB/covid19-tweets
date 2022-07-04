@@ -3,7 +3,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b7I5pXqaOND4YPOUdclmYbFu7hg8_4JW)
 
-See related ![article](https://towardsdatascience.com/mining-twitter-discourse-on-covid19-a2b6df66daee)
+See related [article](https://towardsdatascience.com/mining-twitter-discourse-on-covid19-a2b6df66daee)
 
 ## Dataset
 This dataset contains the Tweets of users who have applied the following hashtags:
@@ -23,8 +23,6 @@ For that reason, we'll attemp to answer the following questions:
 
 - Are people tweeting about particular symptoms?
 
-
-and we'll do it with some basic Social Network Analysis (Part 1) and NLP (Part 2)
 
 Source: https://www.kaggle.com/smid80/coronavirus-covid19-tweets
 
